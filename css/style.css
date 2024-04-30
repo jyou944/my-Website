@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -8,4 +9,11 @@ body {
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
+    margin: 30px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+
 }
