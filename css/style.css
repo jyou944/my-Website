@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 
-/*@font-face {
+@font-face {
     font-family: 'Caprasimo';
     src: url('https://fonts.google.com/specimen/Caprasimo');
-}*/
+}
 
 body {
     background: rgb(123, 179, 235);
@@ -50,18 +50,6 @@ main {
     height: 100%;
 
 }
-
-
-/*aside {
-    box-sizing: border-box;
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 80px;
-    display: flex;
-    flex-direction: column;
-}*/
 
 .item {
     flex: auto;
