@@ -1,11 +1,17 @@
-.wrapper {
-    display: flex;
-    flex-direction: column;
-  }
+
   
-  @media only screen and (max-width: 980px) {
+  @media only screen and (max-width: 680px) {
     .wrapper { 
       font-size: 1.3rem;
+      padding: 0px;
+    }
+    h1 {
+      padding-top: 23px;
     }
   }
   
+ /* @media only screen and (max-height: 700px) {
+    main {
+      align-items: stretch;
+    }
+  }*/
